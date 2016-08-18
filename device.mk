@@ -48,7 +48,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
     $(LOCAL_PATH)/ti-tsc.idc:system/usr/idc/ti-tsc.idc
 
-# From Alex Henderson's BBBAndroid project...
+# From Andrew Henderson's BBBAndroid project...
 # BBBAndroid - Since the users keep asking for GPIO key mappings for the
 # various LCDs (which enumerate in a variety of values), I'm just going
 # to copy links to the base one a bunch of times and hope for the best.
